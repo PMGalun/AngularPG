@@ -1,0 +1,23 @@
+img{
+        width:40px; 
+        height: 40px;
+        float: right;
+        margin: 10px 10px 10px;
+        border-radius: 10px;
+         }
+
+       div{
+        background-color: rgb(14, 73, 136)
+        
+     }
+
+    /*Para vista celular*/
+    @media(max-width:575px){
+      .container{flex-direction: column;}
+
+    app-redessociales {
+      float: right;
+      margin-top: 25px;
+      align-items: center;
+    }
+  }

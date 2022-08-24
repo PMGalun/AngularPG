@@ -1,0 +1,57 @@
+.row{
+    padding: 15px;
+    }
+    div{
+        background-color:rgb(14, 73, 136);
+        border-radius:50px;
+    
+       }
+
+    h1 {
+        display: flex-block;
+        font-size: xx-large;
+        font-style: italic;
+        text-align: center;}
+
+        h2 {
+            display: inline;
+            font-size: xx-large;
+            font-style: italic;
+            text-align: center;
+        color: #fefefe;}
+
+    h3{
+        display: inline;
+        font-size:large;
+        font-style: italic;
+        color:#fefefe
+        
+}
+
+p{
+    color: blanchedalmond;
+}
+
+#Aegis{
+    width: 3%;
+   height: 30px;
+
+}      
+#Atento{
+   width: 3%;
+  height: 30px;
+
+}     
+#APloui{
+   width: 3%;
+  height: 30px;
+
+}    
+h1 {
+    color: rgb(25, 143, 143);
+    inline-size: 100%;
+    display: flex-block;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+ }        
